@@ -18,4 +18,4 @@ Install and Run
 ----------------------
 Further information
 ----------------------
-For futher information about the code, please read sudoku-solver-simulated-annealing(2014).pdf
+For futher information about the code, please read report.pdf
